@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ardiansyah Hermawan</h1>
 <h3 align="center">Weird Developer Who Never Knows.</h3>
-<img align = "center" alt="coding" width ="1000" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
+<img align = "center" alt="coding" width ="800" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themainbased&label=Profile%20views&color=0e75b6&style=flat" alt="themainbased" /> </p>
 
